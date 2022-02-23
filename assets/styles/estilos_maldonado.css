@@ -1,0 +1,33 @@
+body{ background-color:black;
+}
+article{ color:rgb(255, 255, 255);padding: 1.5rem;
+    border-bottom: #FFFFFF 1px solid;
+}
+#titulo_del_blog{ text-align: center;
+    font-size: 3rem;
+    color:white;
+}
+.resaltado{ color:rgb(39, 163, 146);
+}
+
+nav>ul>li { list-style: none;
+}
+nav>ul>li>a {
+    text-decoration: none;
+}
+#footer_blog{
+    padding: 2rem;
+}
+
+footer{
+    color:#FFFFFF;
+}
+.ilustracion{
+    border: white 4px solid;
+}
+
+.ilustracion figcaption {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-style: italic;
+}
